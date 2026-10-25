@@ -1,0 +1,4 @@
+interface:
+  display_name: "城市景点探索地图"
+  short_description: "输入城市或景点自动生成探索地图，默认最多十个标注，支持自定义数量与智能匹配画风"
+  default_prompt: "使用 $city-explorer-map，为南昌生成探索地图，自动选择风格，最多标注10个位置。"
